@@ -1,0 +1,15 @@
+/workspaces/AC_Projects/bin/Debug/net8.0/AC_Projects
+/workspaces/AC_Projects/bin/Debug/net8.0/AC_Projects.deps.json
+/workspaces/AC_Projects/bin/Debug/net8.0/AC_Projects.runtimeconfig.json
+/workspaces/AC_Projects/bin/Debug/net8.0/AC_Projects.dll
+/workspaces/AC_Projects/bin/Debug/net8.0/AC_Projects.pdb
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.AssemblyInfoInputs.cache
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.AssemblyInfo.cs
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.csproj.CoreCompileInputs.cache
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.sourcelink.json
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.dll
+/workspaces/AC_Projects/obj/Debug/net8.0/refint/AC_Projects.dll
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.pdb
+/workspaces/AC_Projects/obj/Debug/net8.0/AC_Projects.genruntimeconfig.cache
+/workspaces/AC_Projects/obj/Debug/net8.0/ref/AC_Projects.dll
